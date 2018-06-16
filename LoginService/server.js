@@ -25,6 +25,6 @@ app.post('/login', (req, res) => {
 	});
 });
 
-app.listen(3000, () => {
+app.listen(4020, () => {
 	console.log('Server running on port 3000');
 });
